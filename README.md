@@ -121,3 +121,7 @@ I DID NOT Make Tomer API.
 # Useful Links
 
 https://github.com/QLG1/ichi-source
+
+# License
+
+nothing
