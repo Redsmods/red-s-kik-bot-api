@@ -21,7 +21,7 @@ just incase if it fails. i have provided the Package Installations Below.
 
 This API uses The Tomer API https://github.com/tomer8007/kik-bot-api-unofficial
 
-and some examples from https://github.com/YassienW/kik-node-api
+and https://github.com/YassienW/kik-node-api
 
 # Usage
 i have provided lots of samples. just go to the Examples folder and Study the code and eventually you will Learn how to make more for your bot.
