@@ -13,6 +13,8 @@ just incase if it fails. i have provided the Package Installations Below.
 - pip3 install ./kik-bot-api-unofficial
 - git clone -b new https://github.com/tomer8007/kik-bot-api-unofficial
 
+This API uses The Tomer API https://github.com/tomer8007/kik-bot-api-unofficial
+
 # Usage
 i have provided lots of samples. just go to the Examples folder and Study the code and eventually you will Learn how to make more for your bot.
 
@@ -32,9 +34,32 @@ You can do a lot with it. Below is some Examples.
 - Receive media content: camera, gallery, stickers
 - Add a kik user as a friend
 - Send images (including GIFs, using a tendor.com API key)
+- Troll
 
 
 
 
+# BreakDown / Documentation
+- chat_message 
+-a chat_message is just a normal message.
 
+- from_jid
+-from_jid is identifying where the message or so on is from (usually used for PM Commands)
 
+-  self.client.send_chat_message
+-This just tells the self client (the client) to send a chat message(text message)
+
+NOT DONE!!!
+
+# News
+this will be updated when i get free time.
+
+# Contact
+
+https://t.me/Rediselitev1
+
+https://kik.me/Rediselitev2
+
+# Disclaimer
+
+I DID NOT Make Tomer API.
