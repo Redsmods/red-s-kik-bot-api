@@ -17,6 +17,7 @@ from bs4 import BeautifulSoup
 
 from helper_funcs import *
 #above is importing
+#below is the config obviously
 config = configparser.ConfigParser()
 config.read('config.ini')
 
@@ -25,7 +26,6 @@ password = config['REQUIRED']['password']
 device_id = config['REQUIRED']['device_id']
 android_id = config['REQUIRED']['android_id']
 
-super = config['REQUIRED']['super']
 owner = config['REQUIRED']['owner']
 prefix = config['REQUIRED']['prefix']
 
@@ -47,7 +47,7 @@ class RedsCute(KikClientCallback):
         _thread.start_new_thread( check_captchas, (self.client, username, ) )
 
     def on_login_ended(self, response: LoginResponse):
-        print("Full name: {} {}".format(response.first_name, response.last_name))
+        print("Full name: {} {} JID:{} Device ID:{}".format(response.first_name, response.last_name, from_jid, device_id))
         #commands
          elif chat_message.body.lower() == prefix+"credits":
                 self.client.send_chat_message(chat_message.from_jid, "This is a Simple Bot set up by Red./nThis wasnt tested so dont freak out if it has errors.")
