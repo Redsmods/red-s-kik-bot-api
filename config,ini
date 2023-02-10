@@ -1,4 +1,5 @@
 #if it's your first time running the bot, change some numbers in device_id and android_id
+#this is your config file. enjoy!
 
 [REQUIRED]
 username = bot_username
@@ -6,7 +7,6 @@ password = bot_password
 device_id =  62030246678b7376a707ca3d11e87027
 android_id =  512d4ggb0c020de1
 prefix = /
-super = [your_jid@talk.kik.com]
 owner = your_username
 
 [OPTIONAL]
