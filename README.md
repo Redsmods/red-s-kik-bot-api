@@ -9,9 +9,9 @@ I have Provided a BAT / BATCH Script. just run the script to install the Python 
 
 just incase if it fails. i have provided the Package Installations Below.
 
-pip install beautifulsoup4
-pip3 install ./kik-bot-api-unofficial
-git clone -b new https://github.com/tomer8007/kik-bot-api-unofficial
+- pip install beautifulsoup4
+- pip3 install ./kik-bot-api-unofficial
+- git clone -b new https://github.com/tomer8007/kik-bot-api-unofficial
 
 # Usage
 i have provided lots of samples. just go to the Examples folder and Study the code and eventually you will Learn how to make more for your bot.
