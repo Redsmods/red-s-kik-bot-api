@@ -60,7 +60,16 @@ You can Pretty much Make Anything With This.
 -  self.client.send_chat_message
 -This just tells the self client (the client) to send a chat message(text message)
 
-NOT DONE!!!
+-  username
+-This is the @ of the bot / account
+
+-  check_captchas
+-This is self Explantory. it checks for captchas
+
+-   clear_captchas
+-Clears Captchas
+
+This will Update Here and there.
 
 # BreakDown / Documentation (JavaScript)
 
