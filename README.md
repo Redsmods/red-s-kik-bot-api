@@ -118,9 +118,6 @@ Send Message
     }
 })
 
-# News
-this will be updated when i get free time.
-
 # Contact For Help
 
 https://t.me/Rediselitev1
