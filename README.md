@@ -64,6 +64,47 @@ NOT DONE!!!
 
 # BreakDown / Documentation (JavaScript)
 
+Send Image
+- Kik.sendImage(jid, imgPath, allowForwarding, allowSaving)
+
+Add Friend
+- Kik.addFriend(jid)
+
+Remove Friend
+- Kik.removeFriend(jid)
+
+Search Groups
+- Kik.searchGroups(searchQuery, (groups) => {
+    
+})
+
+Join Group
+- Kik.joinGroup(groupJid, groupCode, joinToken)
+
+Leave Group
+- Kik.leaveGroup(groupJid)
+
+Kick / Add
+- Kik.setGroupMember(groupJid, userJid, bool)
+
+Promote / Demote
+- Kik.setAdmin(groupJid, userJid, bool)
+
+Ban/UnBan
+- Kik.setBanned(groupJid, userJid, bool)
+
+Change Group Name
+- Kik.setGroupName(groupJid, name)
+
+Set Profile Name
+- Kik.setProfileName(firstName, lastName)
+
+Set Email
+- Kik.setEmail(newEmail, password)
+
+Set Password
+- Kik.setPassword(newPassword, oldPassword)
+
 # News
 this will be updated when i get free time.
 
