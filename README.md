@@ -44,7 +44,7 @@ You can Pretty much Make Anything With This.
 
 
 
-# BreakDown / Documentation
+# BreakDown / Documentation (Python)
 - chat_message 
 -a chat_message is just a normal message.
 
@@ -55,6 +55,8 @@ You can Pretty much Make Anything With This.
 -This just tells the self client (the client) to send a chat message(text message)
 
 NOT DONE!!!
+
+# BreakDown / Documentation (JavaScript)
 
 # News
 this will be updated when i get free time.
