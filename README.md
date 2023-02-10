@@ -124,14 +124,10 @@ https://t.me/Rediselitev1
 
 https://kik.me/Rediselitev2
 
-# Useful Links
-
-https://github.com/QLG1/ichi-source
-
-# License
-
-nothing
-
 # Please Note!
 
 i will not update this Repository that much.
+
+# Useful Links
+
+https://github.com/QLG1/ichi-source
