@@ -4,6 +4,8 @@ Use this library to develop bots for Kik Messenger that are essentially automate
 
 It basically lets you do the same things as the offical Kik app by pretending to be a real Iphone or Android client, It communicates with Kik's servers over a modified version of the XMPP protocol.
 
+This is the easiest Way to Learn.
+
 # Installation / SetUp / Independencies
 I have Provided a BAT / BATCH Script. just run the script to install the Python Packages Needed.
 
