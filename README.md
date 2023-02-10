@@ -11,9 +11,13 @@ I have Provided a BAT / BATCH Script. just run the script to install the Python 
 
 just incase if it fails. i have provided the Package Installations Below.
 
+(python installation)
 - pip install beautifulsoup4
 - pip3 install ./kik-bot-api-unofficial
 - git clone -b new https://github.com/tomer8007/kik-bot-api-unofficial
+
+(javascript installation)
+- npm i kik-node-api
 
 This API uses The Tomer API https://github.com/tomer8007/kik-bot-api-unofficial
 
