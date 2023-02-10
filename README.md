@@ -105,6 +105,15 @@ Set Email
 Set Password
 - Kik.setPassword(newPassword, oldPassword)
 
+Send Message
+- Kik.sendMessage(jid, msg, (delivered, read) => {
+    if(delivered){
+        console.log("Delivered")
+    }else if(read){
+        console.log("Read")
+    }
+})
+
 # News
 this will be updated when i get free time.
 
