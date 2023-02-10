@@ -54,7 +54,7 @@ NOT DONE!!!
 # News
 this will be updated when i get free time.
 
-# Contact
+# Contact For Help
 
 https://t.me/Rediselitev1
 
