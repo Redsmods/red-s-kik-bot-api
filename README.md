@@ -1,4 +1,4 @@
-# Dedicated Kik Api To Beginners.
+# Dedicated Kik Api For Beginners.
 
 Use this library to develop bots for Kik Messenger that are essentially automated humans.
 
