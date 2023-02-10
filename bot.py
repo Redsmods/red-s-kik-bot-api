@@ -16,7 +16,7 @@ import time, re, datetime, requests, json, _thread, configparser
 from bs4 import BeautifulSoup
 
 from helper_funcs import *
-
+#above is importing
 config = configparser.ConfigParser()
 config.read('config.ini')
 
@@ -32,7 +32,7 @@ prefix = config['REQUIRED']['prefix']
 kik_bot_username = config['OPTIONAL']['kik_bot_username']
 kik_bot_key = config['OPTIONAL']['kik_bot_api_key']
 
-
+# above is the config setup
 def main():
     bot = RedsCute()
 
@@ -48,7 +48,7 @@ class RedsCute(KikClientCallback):
 
     def on_login_ended(self, response: LoginResponse):
         print("Full name: {} {}".format(response.first_name, response.last_name))
-        
+        #commands
          elif chat_message.body.lower() == prefix+"credits":
                 self.client.send_chat_message(chat_message.from_jid, "This is a Simple Bot set up by Red./nThis wasnt tested so dont freak out if it has errors.")
             return
