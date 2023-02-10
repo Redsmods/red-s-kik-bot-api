@@ -63,3 +63,8 @@ https://kik.me/Rediselitev2
 # Disclaimer
 
 I DID NOT Make Tomer API.
+
+# Useful Links
+https://github.com/YassienW/kik-node-api
+
+https://github.com/QLG1/ichi-source
