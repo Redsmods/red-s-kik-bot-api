@@ -23,9 +23,6 @@ This API uses The Tomer API https://github.com/tomer8007/kik-bot-api-unofficial
 
 and https://github.com/YassienW/kik-node-api
 
-# Usage
-i have provided lots of samples. just go to the Examples folder and Study the code and eventually you will Learn how to make more for your bot.
-
 # What can i do With This API?
 You can do a lot with it. Below is some Examples.
 
@@ -68,8 +65,6 @@ You can Pretty much Make Anything With This.
 
 -   clear_captchas
 -Clears Captchas
-
-This will Update Here and there.
 
 # BreakDown / Documentation (JavaScript)
 
@@ -132,10 +127,6 @@ https://t.me/Rediselitev1
 
 https://kik.me/Rediselitev2
 
-# Disclaimer
-
-I DID NOT Make Tomer API.
-
 # Useful Links
 
 https://github.com/QLG1/ichi-source
@@ -143,3 +134,7 @@ https://github.com/QLG1/ichi-source
 # License
 
 nothing
+
+# Please Note!
+
+i will not update this Repository that much.
