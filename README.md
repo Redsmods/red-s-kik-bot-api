@@ -109,7 +109,7 @@ Set Email
 - Kik.setEmail(newEmail, password)
 
 Set Password
-- Kik.setPassword(newPassword, oldPassword)
+- '''Kik.setPassword(newPassword, oldPassword)'''
 
 Send Message
 - Kik.sendMessage(jid, msg, (delivered, read) => {
