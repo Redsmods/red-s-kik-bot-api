@@ -120,9 +120,7 @@ Send Message
 
 # Contact For Help
 
-https://t.me/Rediselitev1
-
-https://kik.me/Rediselitev2
+https://redsmods.github.io/Official-redmods-website/index.html
 
 # Please Note!
 
