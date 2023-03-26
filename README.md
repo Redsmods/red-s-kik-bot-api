@@ -19,9 +19,11 @@ just incase if it fails. i have provided the Package Installations Below.
 (javascript installation)
 - npm i kik-node-api
 
-This API uses The Tomer API https://github.com/tomer8007/kik-bot-api-unofficial
+This API uses The Tomer API
+[Tomer API](https://github.com/tomer8007/kik-bot-api-unofficial)
 
-and https://github.com/YassienW/kik-node-api
+and
+[Kik Node API](https://github.com/YassienW/kik-node-api)
 
 # What can i do With This API?
 You can do a lot with it. Below is some Examples.
@@ -120,7 +122,7 @@ Send Message
 
 # Contact For Help
 
-https://redsmods.github.io/Official-redmods-website/index.html
+[Red's Website](https://redsmods.github.io/Official-redmods-website/index.html)
 
 # Please Note!
 
@@ -128,4 +130,4 @@ i will not update this Repository that much.
 
 # Useful Links
 
-https://github.com/QLG1/ichi-source
+[Ichi bot source.](https://github.com/QLG1/ichi-source)
