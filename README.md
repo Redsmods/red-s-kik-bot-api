@@ -81,6 +81,7 @@ Remove Friend
 
 Search Groups
 - ```Kik.searchGroups(searchQuery, (groups) => {
+
 }) ```
 
 Join Group
@@ -125,7 +126,7 @@ Send Message
 
 # Please Note!
 
-i will not update this Repository that much.
+i will not update this Repository that much, also you might have to read the ReadMe.MD in raw.
 
 # Useful Links
 
