@@ -50,75 +50,75 @@ You can Pretty much Make Anything With This.
 
 
 # BreakDown / Documentation (Python)
-- chat_message 
+- ```chat_message```
 -a chat_message is just a normal message.
 
-- from_jid
+- ```from_jid```
 -from_jid is identifying where the message or so on is from (usually used for PM Commands)
 
--  self.client.send_chat_message
+-  ```self.client.send_chat_message```
 -This just tells the self client (the client) to send a chat message(text message)
 
--  username
+-  ```username```
 -This is the @ of the bot / account
 
--  check_captchas
+-  ```check_captchas```
 -This is self Explantory. it checks for captchas
 
--   clear_captchas
+-   ```clear_captchas```
 -Clears Captchas
 
 # BreakDown / Documentation (JavaScript)
 
 Send Image
-- Kik.sendImage(jid, imgPath, allowForwarding, allowSaving)
+- ```Kik.sendImage(jid, imgPath, allowForwarding, allowSaving)```
 
 Add Friend
-- Kik.addFriend(jid)
+- ```Kik.addFriend(jid)```
 
 Remove Friend
-- Kik.removeFriend(jid)
+- ```Kik.removeFriend(jid)```
 
 Search Groups
-- Kik.searchGroups(searchQuery, (groups) => {
+- ```Kik.searchGroups(searchQuery, (groups) => {
     
-})
+})```
 
 Join Group
-- Kik.joinGroup(groupJid, groupCode, joinToken)
+- ```Kik.joinGroup(groupJid, groupCode, joinToken)```
 
 Leave Group
-- Kik.leaveGroup(groupJid)
+- ```Kik.leaveGroup(groupJid)```
 
 Kick / Add
-- Kik.setGroupMember(groupJid, userJid, bool)
+- ```Kik.setGroupMember(groupJid, userJid, bool)```
 
 Promote / Demote
-- Kik.setAdmin(groupJid, userJid, bool)
+- ```Kik.setAdmin(groupJid, userJid, bool)```
 
 Ban/UnBan
-- Kik.setBanned(groupJid, userJid, bool)
+- ```Kik.setBanned(groupJid, userJid, bool)```
 
 Change Group Name
-- Kik.setGroupName(groupJid, name)
+- ```Kik.setGroupName(groupJid, name)```
 
 Set Profile Name
-- Kik.setProfileName(firstName, lastName)
+- ```Kik.setProfileName(firstName, lastName)```
 
 Set Email
-- Kik.setEmail(newEmail, password)
+- ```Kik.setEmail(newEmail, password)```
 
 Set Password
 - ```Kik.setPassword(newPassword, oldPassword)```
 
 Send Message
-- Kik.sendMessage(jid, msg, (delivered, read) => {
+- ```Kik.sendMessage(jid, msg, (delivered, read) => {
     if(delivered){
         console.log("Delivered")
     }else if(read){
         console.log("Read")
     }
-})
+})```
 
 # Contact For Help
 
