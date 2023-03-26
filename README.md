@@ -82,7 +82,7 @@ Remove Friend
 Search Groups
 - ```Kik.searchGroups(searchQuery, (groups) => {
     
-})```
+}) ```
 
 Join Group
 - ```Kik.joinGroup(groupJid, groupCode, joinToken)```
